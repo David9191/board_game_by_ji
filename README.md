@@ -11,8 +11,6 @@
 npm install
 npm run dev
 ```
-- **학생 접속 화면**: http://localhost:5173
-- **관리자 대시보드 & 실시간 관전**: http://localhost:5173/admin (기본 비밀번호: `1004`)
 
 ---
 
